@@ -1,0 +1,188 @@
+body {
+    padding: 0px 20px 0px 20px;
+}
+
+/* who we are */
+
+.who {
+    background-color: rgb(255, 255, 255);
+    padding: 30px 30px 30px 30px;
+}
+
+.who-content {
+    display: inline-block;
+    width: 49.5%;
+    vertical-align: middle;
+}
+
+.who-img {
+    padding: 150px 50px 150px 90px;
+}
+
+.who-words {
+    text-align: left;
+    padding: 0px 90px 50px 20px;
+}
+
+
+
+
+
+/* location */
+
+.location {
+    background-color: rgb(245, 240, 239);
+    padding: 30px 30px 30px 30px;
+}
+
+.location-content {
+    display: inline-block;
+    width: 49.5%;
+    vertical-align: middle;
+}
+
+.location-words {
+    text-align: left;
+    padding: 50px 50px 50px 150px;
+}
+
+
+.location-img {
+    padding: 100px 100px 100px 50px;
+}
+
+
+/* items baking */
+
+.our-baking {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: ui-rounded;
+    margin: 50px 80px 20px 80px;
+    padding: 10px 10px 10px 10px;
+}
+
+.items {
+    float: left;
+    width: 33.333333%;
+    text-align: center;
+}
+
+.items-words {
+    padding: 35px;
+}
+
+.item-img {
+    padding: 25px;
+}
+
+
+/* contact info */
+
+.our-info {
+    background-color: rgb(245, 240, 239);
+    padding: 30px 30px 30px 30px;
+}
+
+.info-content {
+    float: left;
+    width: 50%;
+    vertical-align: middle;
+}
+
+.info-words {
+    text-align: left;
+    padding: 150px 50px 100px 100px;
+}
+
+.info-img {
+    padding: 150px 100px 50px 50px;
+}
+
+
+/* about */
+.about {
+    background-color: rgb(77, 74, 70);
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.about-section {
+    background-color: rgb(77, 74, 70);
+    float: left;
+    width: 22.5%;
+    text-align: left;
+    padding: 20px 10px 20px 10px;
+
+}
+
+
+/* footer */
+.footer {
+    background-color: rgb(61, 58, 53);
+    vertical-align: middle;
+    text-align: center;
+    padding: 50px 400px 50px 400px;
+}
+
+
+/* links */
+
+.footer-links {
+
+    padding: 0px;
+}
+
+
+.links {
+    float: left;
+    width: 23%;
+    padding: 1%;
+}
+
+
+
+
+/* general */
+
+h2 {
+    color: rgba(85, 74, 65, 0.849);
+    font-size: 35px;
+}
+
+h3 {
+    color: rgba(85, 74, 65, 0.849);
+}
+
+h4 {
+    color: rgb(255, 255, 255);
+}
+
+p {
+    color: rgba(124, 105, 88, 0.849);
+    font-size: large;
+}
+
+.content p {
+    color: rgb(146, 137, 125);
+    font-size: medium;
+}
+
+.footer p {
+    color: rgb(146, 137, 125);
+    font-size: medium;
+}
+
+ul li {
+    color: rgba(124, 105, 88, 0.849);
+    font-size: large;
+}
+
+img {
+    width: 100%;
+}
+
+.clr {
+    clear: both;
+}
